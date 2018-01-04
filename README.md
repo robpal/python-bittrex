@@ -9,11 +9,8 @@ Python bindings for bittrex.  I am Not associated -- use at your own risk, etc.
 Installation
 -------------
 
-### for most recent stable release
-`pip install python-bittrex`
-
 ### for bleeding edge development 
-`pip install git+https://github.com/ericsomdahl/python-bittrex.git`
+`pip install git+https://github.com/robpal/python-bittrex.git`
 
 API Documentation
 -------------
